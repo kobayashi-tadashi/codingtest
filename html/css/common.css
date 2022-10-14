@@ -1,0 +1,19 @@
+html{
+    /* ルートのフォントサイズを10pxに設定しておく */
+	font-size: 62.5%;
+}
+
+
+@media screen and (max-width: 767px) {
+  html{
+    font-size: 56.5%;
+  }
+}
+
+
+body{
+	font-size: 1.6rem;
+  color:#242424;
+  background:#F7F7F7;
+	font-family: 'Noto Sans JP', sans-serif;
+}
